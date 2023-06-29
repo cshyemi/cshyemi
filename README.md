@@ -3,11 +3,26 @@ Welcome to my GitHub profile! 🌟
 
 
 ## About Me
-👩‍🏫 I'm a high school teacher in Korea, passionate about teaching information and AI programming to my students. 💻📚
+🏫 숭문고등학교 교사
+💻 담당 교과 : 정보, AI 프로그래밍 기초 
+✉️ 이메일 : cs4hsedu@gmail.com 
 
-🏫 Currently, I work at Soongmoon High School located in the vibrant city of Seoul. 🌆
 
-✉️ Feel free to reach out to me at cs4hsedu@gmail.com for any inquiries or collaborations.
+## Let's Connect! 🌐
+🔗 숭문고등학교 : 
+🎥 [YouTube Channel](https://www.youtube.com/channel/yourchannel)
+
+
+## GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+
+
+👩‍🏫 I'm a high school teacher in Korea, passionate about teaching information and AI programming to my students. 📚
+
+ Currently, I work at Soongmoon High School located in the vibrant city of Seoul. 🌆
+
+ Feel free to reach out to me at cs4hsedu@gmail.com for any inquiries or collaborations.
 
 ## Interests
 
