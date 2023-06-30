@@ -1,6 +1,6 @@
 # Hi there! 👋  
 Welcome to my GitHub profile! 🌟  
-<br><br>  
+<br><br><br><br>  
   
 
 ## About Me  
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! 🌟
   
 ## Let's Connect! 🌐  
 🔗 [숭문고등학교](https://soongmoon.sen.hs.kr/){:target="_blank"}  
-🎥 [숭문고등학교 AI중점학급 유튜브](https://www.youtube.com/@soongmoonai_official)  
-<br><br>  
+🎥 [숭문고등학교 AI중점학급 유튜브](https://www.youtube.com/@soongmoonai_official){:target="_blank"}  
+<br><br><br><br>  
  
 
   
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! 🌟
 📌 [Project 1](https://github.com/project1): Description of project 1.  
 📌 [Project 2](https://github.com/project2): Description of project 2.  
 📌 [Project 3](https://github.com/project3): Description of project 3.  
-<br><br>  
+<br><br><br><br>  
 
 
   
@@ -31,5 +31,5 @@ Welcome to my GitHub profile! 🌟
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)  
 
 
-<br><br>  
+<br><br><br><br>  
 
