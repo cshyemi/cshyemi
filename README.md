@@ -13,8 +13,8 @@ Welcome to my GitHub profile! 🌟
 
   
 ## Let's Connect! 🌐  
-🔗 [숭문고등학교](https://soongmoon.sen.hs.kr/){:target="_blank"}  
-🎥 [숭문고등학교 AI중점학급 유튜브](https://www.youtube.com/@soongmoonai_official){:target="_blank"}  
+🔗 <a href="https://soongmoon.sen.hs.kr/" target="_blank">숭문고등학교</a>   
+🎥 [숭문고등학교 AI중점학급 유튜브](https://www.youtube.com/@soongmoonai_official)
 <br><br><br><br>  
  
 
