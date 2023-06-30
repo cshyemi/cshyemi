@@ -1,5 +1,5 @@
 # Hi there! 👋  
-Welcome to my GitHub profile! 🌟  
+공개되어 있는 모든 작품들은 학생들과의 수업을 위한 용도입니다 🌟  
 <br><br><br><br>  
   
 
